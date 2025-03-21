@@ -38,12 +38,12 @@ node -v
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/JoyxL/Gregory_Joyal_.git
+   git clone https://github.com/JoyxL/Gregory_Joyal_rebin_reji_vazhavilayil.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```
-   cd 
+   cd Gregory_Joyal_rebin_reji_vazhavilayil
    ```
 
 ### Install Dependencies
