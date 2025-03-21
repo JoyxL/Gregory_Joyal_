@@ -1,0 +1,17 @@
+{
+    "scripts": {
+        "start": "parcel src/index.html",
+        "build": "parcel build src/index.html"
+    },
+    "name": "opp",
+    "version": "1.0.0",
+    "main": "main.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "parcel": "^2.14.1"
+    },
+    "devDependencies": {},
+    "description": ""
+}

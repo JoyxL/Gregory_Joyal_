@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;AAKA","sources":["src/styles.css"],"sourcesContent":["body {\n    font-family: Arial, sans-serif;\n    padding: 20px;\n}\n\n#app {\n    max-width: 600px;\n    margin: auto;\n}"],"names":[],"version":3,"file":"opp.4d663569.css.map","sourceRoot":"/__parcel_source_root/"}
