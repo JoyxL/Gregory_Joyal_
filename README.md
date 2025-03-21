@@ -1,4 +1,5 @@
 # Recipe Book Application OOP Integration
+## rebin reji vazhavilayil , Joyal Gregory
 ## Overview
 
 The Recipe Book application utilizes Object-Oriented Programming (OOP) principles to structure the code effectively and enhance code maintenance and scalability. By organizing functionality into reusable classes, the application becomes more modular, making it easier to expand and manage in the future.
@@ -42,7 +43,7 @@ node -v
 
 2. **Navigate to the Project Directory**:
    ```
-   cd recipe-book
+   cd 
    ```
 
 ### Install Dependencies
