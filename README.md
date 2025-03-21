@@ -1,10 +1,33 @@
+<<<<<<< Updated upstream
 # Recipe Book Application
 
 ## Overview
 
 The Recipe Book Application is a simple web tool that allows users to create and view a collection of recipes by inputting recipe names and their ingredients.
+=======
+# Recipe Book Application - OOP Integration
 
-## How I Built It
+## Overview
+
+The Recipe Book application utilizes Object-Oriented Programming (OOP) principles to structure the code effectively and enhance code maintenance and scalability. By organizing functionality into reusable classes, the application becomes more modular, making it easier to expand and manage in the future.
+
+## **Team Members**
+- **Joyal Gregory**
+- **Rebin Reji Vazhavilayil**
+
+## **Classes and Their Responsibilities**
+
+### **Recipe Class**
+**Purpose**: The Recipe class represents a single recipe, encapsulating its properties and behaviors.
+
+**Properties:**
+- `name`: A string that holds the name of the recipe.
+- `ingredients`: An array of strings representing the ingredients required for the recipe.
+>>>>>>> Stashed changes
+
+**Constructor**: Initializes a new instance of the Recipe class with a specified name and ingredients list.
+
+## **How We Built It**
 
 1. **HTML Structure**: Created a basic layout with input fields for the recipe name and ingredients, along with a submission button.
 2. **JavaScript Logic**:
@@ -13,14 +36,15 @@ The Recipe Book Application is a simple web tool that allows users to create and
    - Used DOM manipulation to display the entered recipes in a formatted manner.
 3. **Styling**: Basic styling using CSS was applied to enhance visual clarity and usability.
 
-## Installation
+## **Installation**
 
 To get a copy of the Recipe Book Application running on your local machine, follow these steps:
 
-### Prerequisites
+### **Prerequisites**
 
 Ensure you have [Node.js](https://nodejs.org/) installed on your machine. You can check if it’s installed by running:
 
+<<<<<<< Updated upstream
 ```bash
 node -v
 ```
@@ -61,3 +85,7 @@ npm install
 This project is licensed under the MIT License.
 
 ---
+=======
+```sh
+node -v
+>>>>>>> Stashed changes
