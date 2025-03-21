@@ -32,6 +32,8 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine. You ca
 
 ```
 node -v
+npm init -y
+npm install parcel
 ```
 
 ### Clone the Repository
@@ -57,6 +59,9 @@ npm install
 ### Open the Application
 
 - Open the `index.html` file in a web browser of your choice.
+```
+npx parcel src/index.html
+```
 
 ## Usage
 
